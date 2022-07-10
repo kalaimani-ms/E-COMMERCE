@@ -1,4 +1,5 @@
 import java.util.Scanner;  
+hi first commit
 import java.lang.Math;
 import java.lang.Math;
 import java.io.loop;
